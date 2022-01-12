@@ -1,0 +1,1208 @@
+[
+        {
+                "_id" : "Papua New Guinea",
+                "maxBMI" : NumberDecimal("26.90358965091354810070979965494686"),
+                "minBMI" : NumberDecimal("19.85941703982155649313466878460517"),
+                "avgBMI" : NumberDecimal("24.21326408700207038605364883876824")
+        },
+        {
+                "_id" : "Jamaica",
+                "maxBMI" : NumberDecimal("28.97571783512153886058033848890547"),
+                "minBMI" : NumberDecimal("22.27536914655859737197447863841890"),
+                "avgBMI" : NumberDecimal("24.93149892025034190898785312717459")
+        },
+        {
+                "_id" : "Netherlands",
+                "maxBMI" : NumberDecimal("34.91379070141339473083569534398770"),
+                "minBMI" : NumberDecimal("19.37514915181097469035340427639835"),
+                "avgBMI" : NumberDecimal("26.02467655953886331086364153066548")
+        },
+        {
+                "_id" : "Albania",
+                "maxBMI" : NumberDecimal("31.98582559382973381299874171473781"),
+                "minBMI" : NumberDecimal("18.99534349796338820007054790779421"),
+                "avgBMI" : NumberDecimal("24.70893828760487706651857023901500")
+        },
+        {
+                "_id" : "Syria",
+                "maxBMI" : NumberDecimal("36.40174893568621193964170739302710"),
+                "minBMI" : NumberDecimal("18.66889930350015970766411461450494"),
+                "avgBMI" : NumberDecimal("25.37924156700658511810337966139417")
+        },
+        {
+                "_id" : "Luxembourg",
+                "maxBMI" : NumberDecimal("33.21935122648015659872510601826917"),
+                "minBMI" : NumberDecimal("19.26705786445957168529316808749562"),
+                "avgBMI" : NumberDecimal("26.31112838002145442341041089879057")
+        },
+        {
+                "_id" : "Norway",
+                "maxBMI" : NumberDecimal("35.16718168618179215082908568178895"),
+                "minBMI" : NumberDecimal("19.60250429261246892094063535273939"),
+                "avgBMI" : NumberDecimal("27.01205330474686638568564514931113")
+        },
+        {
+                "_id" : "Iraq",
+                "maxBMI" : NumberDecimal("33.23798843565602297844069165388195"),
+                "minBMI" : NumberDecimal("17.81138214921307561955281233301917"),
+                "avgBMI" : NumberDecimal("24.09773233677687255241522625448865")
+        },
+        {
+                "_id" : "Bolivia",
+                "maxBMI" : NumberDecimal("32.04862302606188116899070874933078"),
+                "minBMI" : NumberDecimal("20.46124473638279536332749530139286"),
+                "avgBMI" : NumberDecimal("25.29160675430758621372420077749433")
+        },
+        {
+                "_id" : "Mauritius",
+                "maxBMI" : NumberDecimal("38.86342108446305727030353046852227"),
+                "minBMI" : NumberDecimal("19.22530864197530864197530864197531"),
+                "avgBMI" : NumberDecimal("25.49360782117101272564568826879028")
+        },
+        {
+                "_id" : "Seychelles",
+                "maxBMI" : NumberDecimal("25.71055175513672271856855223540567"),
+                "minBMI" : NumberDecimal("25.71055175513672271856855223540567"),
+                "avgBMI" : NumberDecimal("25.71055175513672271856855223540567")
+        },
+        {
+                "_id" : "Greenland",
+                "maxBMI" : NumberDecimal("25.87231726224435425802828699896704"),
+                "minBMI" : NumberDecimal("25.87231726224435425802828699896704"),
+                "avgBMI" : NumberDecimal("25.87231726224435425802828699896704")
+        },
+        {
+                "_id" : "Maldives",
+                "maxBMI" : NumberDecimal("28.25830239759800503765679863819951"),
+                "minBMI" : NumberDecimal("23.65461942992296744649289230067460"),
+                "avgBMI" : NumberDecimal("25.38987079082935312824983453346886")
+        },
+        {
+                "_id" : "Fiji",
+                "maxBMI" : NumberDecimal("21.20214969539885684398873960144679"),
+                "minBMI" : NumberDecimal("21.20214969539885684398873960144679"),
+                "avgBMI" : NumberDecimal("21.20214969539885684398873960144679")
+        },
+        {
+                "_id" : "Wallis and Futuna",
+                "maxBMI" : NumberDecimal("28.43117093855067174666177950664855"),
+                "minBMI" : NumberDecimal("24.33390757821489104302827689333738"),
+                "avgBMI" : NumberDecimal("26.38253925838278139484502819999296")
+        },
+        {
+                "_id" : "Jordan",
+                "maxBMI" : NumberDecimal("32.35315976803472106309052982872475"),
+                "minBMI" : NumberDecimal("21.21020718956612236570005360120893"),
+                "avgBMI" : NumberDecimal("26.64319025234918685818946254861878")
+        },
+        {
+                "_id" : "Sierra Leone",
+                "maxBMI" : NumberDecimal("33.44826945468168519298310812010923"),
+                "minBMI" : NumberDecimal("19.49887642053163186024358818689062"),
+                "avgBMI" : NumberDecimal("25.11304222749875802730060020009383")
+        },
+        {
+                "_id" : "Croatia",
+                "maxBMI" : NumberDecimal("38.54454850434303620314238519739833"),
+                "minBMI" : NumberDecimal("18.79145933816664605314913665132188"),
+                "avgBMI" : NumberDecimal("24.85982504916995113799335777447985")
+        },
+        {
+                "_id" : "Canada",
+                "maxBMI" : NumberDecimal("33.61303753837221613473919372431089"),
+                "minBMI" : NumberDecimal("18.33799182001260114652390904113541"),
+                "avgBMI" : NumberDecimal("25.52290447489947458440281594630567")
+        },
+        {
+                "_id" : "Bulgaria",
+                "maxBMI" : NumberDecimal("32.59850336330580634511598475851603"),
+                "minBMI" : NumberDecimal("18.41576363318102902256056679127328"),
+                "avgBMI" : NumberDecimal("24.58406826401768284067808189089739")
+        },
+        {
+                "_id" : "Dominica",
+                "maxBMI" : NumberDecimal("26.42147612552151442973970398063978"),
+                "minBMI" : NumberDecimal("26.42147612552151442973970398063978"),
+                "avgBMI" : NumberDecimal("26.42147612552151442973970398063978")
+        },
+        {
+                "_id" : "Latvia",
+                "maxBMI" : NumberDecimal("32.88731053562051974842472010384446"),
+                "minBMI" : NumberDecimal("18.43553598869306007036639640949749"),
+                "avgBMI" : NumberDecimal("26.63477117739701403106842766855634")
+        },
+        {
+                "_id" : "Micronesia",
+                "maxBMI" : NumberDecimal("25.24886656617765678630973533924079"),
+                "minBMI" : NumberDecimal("20.48358314807701257033582831550986"),
+                "avgBMI" : NumberDecimal("23.30734487713070347732159051313395")
+        },
+        {
+                "_id" : "Costa Rica",
+                "maxBMI" : NumberDecimal("28.89856961379232940779834175475509"),
+                "minBMI" : NumberDecimal("20.49401094221192286738131229809470"),
+                "avgBMI" : NumberDecimal("24.65043733720020279892452385381087")
+        },
+        {
+                "_id" : "Kosovo",
+                "maxBMI" : NumberDecimal("29.62432658717081467382146623329887"),
+                "minBMI" : NumberDecimal("19.25401257063033259361560265906867"),
+                "avgBMI" : NumberDecimal("24.13095183240382114100795230991362")
+        },
+        {
+                "_id" : "Sudan",
+                "maxBMI" : NumberDecimal("26.38833826321072706233173590305047"),
+                "minBMI" : NumberDecimal("22.77184895818425763553244667054118"),
+                "avgBMI" : NumberDecimal("24.95175335819889735919041458237148")
+        },
+        {
+                "_id" : "Guadeloupe",
+                "maxBMI" : NumberDecimal("22.06628705248292220886526571760805"),
+                "minBMI" : NumberDecimal("22.06628705248292220886526571760805"),
+                "avgBMI" : NumberDecimal("22.06628705248292220886526571760805")
+        },
+        {
+                "_id" : "Malawi",
+                "maxBMI" : NumberDecimal("30.49893404127401099417315507072165"),
+                "minBMI" : NumberDecimal("23.29026327914252669538303105758390"),
+                "avgBMI" : NumberDecimal("27.29914270013301797884983651293234")
+        },
+        {
+                "_id" : "Finland",
+                "maxBMI" : NumberDecimal("36.88879211052598403539031923489064"),
+                "minBMI" : NumberDecimal("18.31304444535513127637490998385114"),
+                "avgBMI" : NumberDecimal("25.62844713976523803008755612912442")
+        },
+        {
+                "_id" : "South Sudan",
+                "maxBMI" : NumberDecimal("25.95879518727662983206773475000156"),
+                "minBMI" : NumberDecimal("25.95879518727662983206773475000156"),
+                "avgBMI" : NumberDecimal("25.95879518727662983206773475000156")
+        },
+        {
+                "_id" : "Puerto Rico",
+                "maxBMI" : NumberDecimal("27.28341528253193031800434869790015"),
+                "minBMI" : NumberDecimal("22.62480717834321820506068283657322"),
+                "avgBMI" : NumberDecimal("25.26234968805241762769791355099961")
+        },
+        {
+                "_id" : "Kuwait",
+                "maxBMI" : NumberDecimal("27.18431873880667357903666698086530"),
+                "minBMI" : NumberDecimal("22.43979747671334749634562766617640"),
+                "avgBMI" : NumberDecimal("25.23166501191637578004513642087129")
+        },
+        {
+                "_id" : "Martinique",
+                "maxBMI" : NumberDecimal("24.02538363133391552230817162910688"),
+                "minBMI" : NumberDecimal("24.02538363133391552230817162910688"),
+                "avgBMI" : NumberDecimal("24.02538363133391552230817162910688")
+        },
+        {
+                "_id" : "Barbados",
+                "maxBMI" : NumberDecimal("21.34324264451332118748146576175580"),
+                "minBMI" : NumberDecimal("21.34324264451332118748146576175580"),
+                "avgBMI" : NumberDecimal("21.34324264451332118748146576175580")
+        },
+        {
+                "_id" : "Australia",
+                "maxBMI" : NumberDecimal("29.82455599343254501478097285675894"),
+                "minBMI" : NumberDecimal("20.65310909810227168884758606637977"),
+                "avgBMI" : NumberDecimal("25.19504715831007573180200731488301")
+        },
+        {
+                "_id" : "Suriname",
+                "maxBMI" : NumberDecimal("30.38931494743512271610677378411555"),
+                "minBMI" : NumberDecimal("30.38931494743512271610677378411555"),
+                "avgBMI" : NumberDecimal("30.38931494743512271610677378411555")
+        },
+        {
+                "_id" : "Lebanon",
+                "maxBMI" : NumberDecimal("32.44443107233452111294614467005184"),
+                "minBMI" : NumberDecimal("22.69678296500536728887247549911955"),
+                "avgBMI" : NumberDecimal("27.50900155800486656642848837942982")
+        },
+        {
+                "_id" : "Qatar",
+                "maxBMI" : NumberDecimal("29.59929102947268914959575157740852"),
+                "minBMI" : NumberDecimal("21.90167438399708502381861562824250"),
+                "avgBMI" : NumberDecimal("25.75048270673488708670718360282551")
+        },
+        {
+                "_id" : "Afghanistan",
+                "maxBMI" : NumberDecimal("31.68072427781461199651295366144836"),
+                "minBMI" : NumberDecimal("18.43029934857630306784248798872765"),
+                "avgBMI" : NumberDecimal("25.04840088025494934745012305827089")
+        },
+        {
+                "_id" : "Ethiopia",
+                "maxBMI" : NumberDecimal("32.85411863239378161598379329982831"),
+                "minBMI" : NumberDecimal("20.55367285745028414166944852610957"),
+                "avgBMI" : NumberDecimal("25.47396595279003395318165418125718")
+        },
+        {
+                "_id" : "Palau",
+                "maxBMI" : NumberDecimal("29.99935995904786348121435574341084"),
+                "minBMI" : NumberDecimal("29.23870542868914080632363177651321"),
+                "avgBMI" : NumberDecimal("29.61903269386850214376899375996202")
+        },
+        {
+                "_id" : "Equatorial Guinea",
+                "maxBMI" : NumberDecimal("24.78415860505222467596432298482035"),
+                "minBMI" : NumberDecimal("24.78415860505222467596432298482035"),
+                "avgBMI" : NumberDecimal("24.78415860505222467596432298482035")
+        },
+        {
+                "_id" : "Bosnia and Herzegovina",
+                "maxBMI" : NumberDecimal("35.97395007994126778792448875396772"),
+                "minBMI" : NumberDecimal("16.93066431142188937648293623472835"),
+                "avgBMI" : NumberDecimal("25.41862973031573337367046722271203")
+        },
+        {
+                "_id" : "Peru",
+                "maxBMI" : NumberDecimal("36.36334544992971630728880872553797"),
+                "minBMI" : NumberDecimal("17.80600236198691797147395602994059"),
+                "avgBMI" : NumberDecimal("25.27264557662211311050082126395443")
+        },
+        {
+                "_id" : "Malaysia",
+                "maxBMI" : NumberDecimal("36.53428355033910206769073051013733"),
+                "minBMI" : NumberDecimal("18.54461856797744181528275016658385"),
+                "avgBMI" : NumberDecimal("25.61238899059475942513134600690505")
+        },
+        {
+                "_id" : "Senegal",
+                "maxBMI" : NumberDecimal("26.59144844694053265099221533407433"),
+                "minBMI" : NumberDecimal("21.10083404913989051505791931370751"),
+                "avgBMI" : NumberDecimal("23.41557086385516172181240266727248")
+        },
+        {
+                "_id" : "North Korea",
+                "maxBMI" : NumberDecimal("30.61429036407098365891028559074568"),
+                "minBMI" : NumberDecimal("20.92421217201019900844842134103099"),
+                "avgBMI" : NumberDecimal("26.20514602332258766618697374027374")
+        },
+        {
+                "_id" : "Saint Lucia",
+                "maxBMI" : NumberDecimal("27.57036153167092565695203659382514"),
+                "minBMI" : NumberDecimal("20.26335935603560191768448901241734"),
+                "avgBMI" : NumberDecimal("23.00790051320356559497323131087248")
+        },
+        {
+                "_id" : "Liberia",
+                "maxBMI" : NumberDecimal("29.63330910128882781870456960984494"),
+                "minBMI" : NumberDecimal("22.64819265750956521193383916746462"),
+                "avgBMI" : NumberDecimal("25.90154653883203603228994293084583")
+        },
+        {
+                "_id" : "China",
+                "maxBMI" : NumberDecimal("42.36228470295767220940880696297838"),
+                "minBMI" : NumberDecimal("15.45756779740526962369919894583660"),
+                "avgBMI" : NumberDecimal("25.58155989407153270485192317719412")
+        },
+        {
+                "_id" : "Western Sahara",
+                "maxBMI" : NumberDecimal("22.75109226188259045678667305257947"),
+                "minBMI" : NumberDecimal("22.75109226188259045678667305257947"),
+                "avgBMI" : NumberDecimal("22.75109226188259045678667305257947")
+        },
+        {
+                "_id" : "Colombia",
+                "maxBMI" : NumberDecimal("35.40103513053590841762883459229659"),
+                "minBMI" : NumberDecimal("18.54931733610328172748298446377962"),
+                "avgBMI" : NumberDecimal("25.77985802654869327576638040022092")
+        },
+        {
+                "_id" : "South Korea",
+                "maxBMI" : NumberDecimal("31.35384445026280957353338390481523"),
+                "minBMI" : NumberDecimal("19.48185862847715255520846011332441"),
+                "avgBMI" : NumberDecimal("24.68188694874892677705644900361585")
+        },
+        {
+                "_id" : "Macedonia",
+                "maxBMI" : NumberDecimal("32.52569417786054134759907168646824"),
+                "minBMI" : NumberDecimal("20.49505218724689978215238314346950"),
+                "avgBMI" : NumberDecimal("25.1695431673382527340509588018274")
+        },
+        {
+                "_id" : "South Africa",
+                "maxBMI" : NumberDecimal("40.54150514193364125673279124638761"),
+                "minBMI" : NumberDecimal("17.33504330126282603963172163868919"),
+                "avgBMI" : NumberDecimal("25.86499470004274938023316629419267")
+        },
+        {
+                "_id" : "Moldova",
+                "maxBMI" : NumberDecimal("32.56715420989366207723262375392615"),
+                "minBMI" : NumberDecimal("19.68838112329027870524300457797063"),
+                "avgBMI" : NumberDecimal("25.57295819429360863023627229112012")
+        },
+        {
+                "_id" : "Montenegro",
+                "maxBMI" : NumberDecimal("29.52690966743399041075108370124651"),
+                "minBMI" : NumberDecimal("20.73659089443421482601788975928454"),
+                "avgBMI" : NumberDecimal("24.00617071684225816405248782945238")
+        },
+        {
+                "_id" : "New Caledonia",
+                "maxBMI" : NumberDecimal("26.93995590109170804266258347326096"),
+                "minBMI" : NumberDecimal("24.07180767559937779622117486482425"),
+                "avgBMI" : NumberDecimal("25.50588178834554291944187916904260")
+        },
+        {
+                "_id" : "Somalia",
+                "maxBMI" : NumberDecimal("29.95370595190636501517254463958007"),
+                "minBMI" : NumberDecimal("29.95370595190636501517254463958007"),
+                "avgBMI" : NumberDecimal("29.95370595190636501517254463958007")
+        },
+        {
+                "_id" : "United Arab Emirates",
+                "maxBMI" : NumberDecimal("29.75307185477947522626056114469859"),
+                "minBMI" : NumberDecimal("23.39097860869180233516247014637194"),
+                "avgBMI" : NumberDecimal("26.57202523173563878071151564553526")
+        },
+        {
+                "_id" : "New Zealand",
+                "maxBMI" : NumberDecimal("33.70893869077877044468153981575375"),
+                "minBMI" : NumberDecimal("20.01503779650850424932511500436981"),
+                "avgBMI" : NumberDecimal("25.35979414491938121535809805266332")
+        },
+        {
+                "_id" : "American Samoa",
+                "maxBMI" : NumberDecimal("22.39833691807659186856016915085615"),
+                "minBMI" : NumberDecimal("22.39833691807659186856016915085615"),
+                "avgBMI" : NumberDecimal("22.39833691807659186856016915085615")
+        },
+        {
+                "_id" : "Brazil",
+                "maxBMI" : NumberDecimal("40.62913727068200383883911506588214"),
+                "minBMI" : NumberDecimal("17.45590188179991388969176281919808"),
+                "avgBMI" : NumberDecimal("25.61810471317870610284634372044215")
+        },
+        {
+                "_id" : "Yemen",
+                "maxBMI" : NumberDecimal("34.85489627858924156259934889751647"),
+                "minBMI" : NumberDecimal("20.91065689284757951199112825318847"),
+                "avgBMI" : NumberDecimal("25.52074190214180601474030092366403")
+        },
+        {
+                "_id" : "Mongolia",
+                "maxBMI" : NumberDecimal("31.47600262984878369493754109138725"),
+                "minBMI" : NumberDecimal("19.12334810050308987895737266300736"),
+                "avgBMI" : NumberDecimal("24.02853800304413026505131369312971")
+        },
+        {
+                "_id" : "Sint Maarten",
+                "maxBMI" : NumberDecimal("24.10306547410402163293305499405890"),
+                "minBMI" : NumberDecimal("22.21850416658591554399670925318418"),
+                "avgBMI" : NumberDecimal("23.16078482034496858846488212362154")
+        },
+        {
+                "_id" : "Laos",
+                "maxBMI" : NumberDecimal("28.47054793500704942963948807579592"),
+                "minBMI" : NumberDecimal("20.41440590786993740653675259161622"),
+                "avgBMI" : NumberDecimal("24.70656050017314600873089296929244")
+        },
+        {
+                "_id" : "Samoa",
+                "maxBMI" : NumberDecimal("20.54488200453267697678696429151781"),
+                "minBMI" : NumberDecimal("20.54488200453267697678696429151781"),
+                "avgBMI" : NumberDecimal("20.54488200453267697678696429151781")
+        },
+        {
+                "_id" : "Nauru",
+                "maxBMI" : NumberDecimal("22.91236113053845177629707990858909"),
+                "minBMI" : NumberDecimal("22.91236113053845177629707990858909"),
+                "avgBMI" : NumberDecimal("22.91236113053845177629707990858909")
+        },
+        {
+                "_id" : "Turkmenistan",
+                "maxBMI" : NumberDecimal("30.26379369479496560826432161412943"),
+                "minBMI" : NumberDecimal("21.53603687534912463705081911231362"),
+                "avgBMI" : NumberDecimal("26.07469340623342335822129873833187")
+        },
+        {
+                "_id" : "Vietnam",
+                "maxBMI" : NumberDecimal("32.97072894443238124848660144761130"),
+                "minBMI" : NumberDecimal("16.58807462378890950319521748093177"),
+                "avgBMI" : NumberDecimal("25.04102236093672011124306348823948")
+        },
+        {
+                "_id" : "Namibia",
+                "maxBMI" : NumberDecimal("32.28039749878037524886937489287080"),
+                "minBMI" : NumberDecimal("22.33332177169047483275299764985114"),
+                "avgBMI" : NumberDecimal("26.73643903285896621630940662214896")
+        },
+        {
+                "_id" : "Gambia",
+                "maxBMI" : NumberDecimal("29.04151838075552351938035116447869"),
+                "minBMI" : NumberDecimal("17.84046677774891216370238201261085"),
+                "avgBMI" : NumberDecimal("23.77340522245322920988836945748017")
+        },
+        {
+                "_id" : "Andorra",
+                "maxBMI" : NumberDecimal("30.65208078150738244504649100047668"),
+                "minBMI" : NumberDecimal("25.69248652799161918064792622339328"),
+                "avgBMI" : NumberDecimal("28.17228365474950081284720861193498")
+        },
+        {
+                "_id" : "Mauritania",
+                "maxBMI" : NumberDecimal("22.69962121514129610850627593572496"),
+                "minBMI" : NumberDecimal("20.42747924981324361500147711599218"),
+                "avgBMI" : NumberDecimal("21.56355023247726986175387652585857")
+        },
+        {
+                "_id" : "Saint Kitts and Nevis",
+                "maxBMI" : NumberDecimal("30.06261206327216006196207882987367"),
+                "minBMI" : NumberDecimal("25.18137321901941613387801433436793"),
+                "avgBMI" : NumberDecimal("27.80112893513996364210618157001758")
+        },
+        {
+                "_id" : "Cuba",
+                "maxBMI" : NumberDecimal("35.42409829567974633372968688069758"),
+                "minBMI" : NumberDecimal("18.48946297936196744350257891428154"),
+                "avgBMI" : NumberDecimal("26.37919135685751150408027625600587")
+        },
+        {
+                "_id" : "Comoros",
+                "maxBMI" : NumberDecimal("33.86465840113390881282761572945979"),
+                "minBMI" : NumberDecimal("19.73678859401530764160503481189732"),
+                "avgBMI" : NumberDecimal("25.43904303433795187295786225648838")
+        },
+        {
+                "_id" : "Angola",
+                "maxBMI" : NumberDecimal("31.67480491405164794619594237625170"),
+                "minBMI" : NumberDecimal("18.36240074409329318818704132117150"),
+                "avgBMI" : NumberDecimal("24.17967562103931994772887246002419")
+        },
+        {
+                "_id" : "Cambodia",
+                "maxBMI" : NumberDecimal("33.32850035102713592381184945514484"),
+                "minBMI" : NumberDecimal("21.87385982617120920658900224773750"),
+                "avgBMI" : NumberDecimal("27.38397127839095671936110357867673")
+        },
+        {
+                "_id" : "Zambia",
+                "maxBMI" : NumberDecimal("31.44864603504858954249499679856787"),
+                "minBMI" : NumberDecimal("20.33871951352902123865671757272812"),
+                "avgBMI" : NumberDecimal("25.8578753779435939456650411731082")
+        },
+        {
+                "_id" : "Eritrea",
+                "maxBMI" : NumberDecimal("28.70618768025632820479265857700632"),
+                "minBMI" : NumberDecimal("24.50268874944323423713376170272865"),
+                "avgBMI" : NumberDecimal("26.18666676758778883210921570452101")
+        },
+        {
+                "_id" : "Iceland",
+                "maxBMI" : NumberDecimal("30.14738226195102218362550434961941"),
+                "minBMI" : NumberDecimal("22.67466731971462449678845812012295"),
+                "avgBMI" : NumberDecimal("25.5909509325357532758891392278597")
+        },
+        {
+                "_id" : "Guinea",
+                "maxBMI" : NumberDecimal("34.46212853841236538871314068416135"),
+                "minBMI" : NumberDecimal("20.46047877337179624256912760482401"),
+                "avgBMI" : NumberDecimal("27.91422159679820120077295978279329")
+        },
+        {
+                "_id" : "Republic of the Congo",
+                "maxBMI" : NumberDecimal("30.40321009942461819349453116453780"),
+                "minBMI" : NumberDecimal("17.66140782350201202360604070312943"),
+                "avgBMI" : NumberDecimal("25.55986769631975312920706930284473")
+        },
+        {
+                "_id" : "Serbia",
+                "maxBMI" : NumberDecimal("43.54832804682020237713690281093466"),
+                "minBMI" : NumberDecimal("19.73180880155626728995537232783972"),
+                "avgBMI" : NumberDecimal("25.78944084394417668256755817825362")
+        },
+        {
+                "_id" : "Belgium",
+                "maxBMI" : NumberDecimal("28.99768238856707369987238642240226"),
+                "minBMI" : NumberDecimal("20.04792609982721601936820593872831"),
+                "avgBMI" : NumberDecimal("26.14077862601640569565616885405588")
+        },
+        {
+                "_id" : "East Timor",
+                "maxBMI" : NumberDecimal("32.72956653359619667553256866977055"),
+                "minBMI" : NumberDecimal("21.52514539442195687355611266117496"),
+                "avgBMI" : NumberDecimal("25.8279787526623052817340781964772")
+        },
+        {
+                "_id" : "Lithuania",
+                "maxBMI" : NumberDecimal("30.88783000596802953102547168823900"),
+                "minBMI" : NumberDecimal("19.68833974966633355092326418183371"),
+                "avgBMI" : NumberDecimal("24.41420834523518423583318095464048")
+        },
+        {
+                "_id" : "Kenya",
+                "maxBMI" : NumberDecimal("32.41597300136890894352780330152246"),
+                "minBMI" : NumberDecimal("21.96309417399859530883540579930547"),
+                "avgBMI" : NumberDecimal("25.84497767923738131148363979146673")
+        },
+        {
+                "_id" : "Czech Republic",
+                "maxBMI" : NumberDecimal("33.15190133598318813361621129742490"),
+                "minBMI" : NumberDecimal("18.56386639676774291827443768439505"),
+                "avgBMI" : NumberDecimal("25.23455428652526185449648785443946")
+        },
+        {
+                "_id" : "Trinidad and Tobago",
+                "maxBMI" : NumberDecimal("31.51984490340117786738548001929063"),
+                "minBMI" : NumberDecimal("22.71405507687312379411781665368725"),
+                "avgBMI" : NumberDecimal("27.5986457045829876425268195371669")
+        },
+        {
+                "_id" : "French Guiana",
+                "maxBMI" : NumberDecimal("28.91121902539660962208004743984835"),
+                "minBMI" : NumberDecimal("22.27180050183758128374161824555807"),
+                "avgBMI" : NumberDecimal("25.59150976361709545291083284270321")
+        },
+        {
+                "_id" : "Ghana",
+                "maxBMI" : NumberDecimal("32.50433727787583464924278278565659"),
+                "minBMI" : NumberDecimal("22.30963641725076324673138504523772"),
+                "avgBMI" : NumberDecimal("25.84451999645706463474509366826451")
+        },
+        {
+                "_id" : "Monaco",
+                "maxBMI" : NumberDecimal("28.92797582823139915930901972184053"),
+                "minBMI" : NumberDecimal("28.92797582823139915930901972184053"),
+                "avgBMI" : NumberDecimal("28.92797582823139915930901972184053")
+        },
+        {
+                "_id" : "Cameroon",
+                "maxBMI" : NumberDecimal("33.17153919692311104815642430669211"),
+                "minBMI" : NumberDecimal("19.68164695338018626922619729135870"),
+                "avgBMI" : NumberDecimal("24.63669533542230075403287207597687")
+        },
+        {
+                "_id" : "Germany",
+                "maxBMI" : NumberDecimal("32.56393192452176477336329876266977"),
+                "minBMI" : NumberDecimal("19.81281881812401014165891545021089"),
+                "avgBMI" : NumberDecimal("24.62110699515594612424188960616923")
+        },
+        {
+                "_id" : "Democratic Republic of the Congo",
+                "maxBMI" : NumberDecimal("33.51540157186674937149663826142535"),
+                "minBMI" : NumberDecimal("18.27553140160477717541422026203317"),
+                "avgBMI" : NumberDecimal("26.53027120549530322004344841199685")
+        },
+        {
+                "_id" : "France",
+                "maxBMI" : NumberDecimal("40.68709814176659240991340116856813"),
+                "minBMI" : NumberDecimal("17.68051829464280155772668937751019"),
+                "avgBMI" : NumberDecimal("25.21788101738581693033391014192608")
+        },
+        {
+                "_id" : "French Polynesia",
+                "maxBMI" : NumberDecimal("28.53922794918566993887664834430760"),
+                "minBMI" : NumberDecimal("20.29968846098141224203510232817929"),
+                "avgBMI" : NumberDecimal("25.35140886054146299838079372796154")
+        },
+        {
+                "_id" : "Guam",
+                "maxBMI" : NumberDecimal("24.01267363572127707852107360372857"),
+                "minBMI" : NumberDecimal("20.67309032186490578401996183779636"),
+                "avgBMI" : NumberDecimal("22.45019365812171656698696865534426")
+        },
+        {
+                "_id" : "Burkina Faso",
+                "maxBMI" : NumberDecimal("39.84736448162322422259597506464267"),
+                "minBMI" : NumberDecimal("19.87492441626006428078289998601342"),
+                "avgBMI" : NumberDecimal("27.58147333149778592154535861683113")
+        },
+        {
+                "_id" : "Ukraine",
+                "maxBMI" : NumberDecimal("36.84222756372364001148658010299621"),
+                "minBMI" : NumberDecimal("17.02155956505498505126813461400104"),
+                "avgBMI" : NumberDecimal("25.20615536401979384307155650292971")
+        },
+        {
+                "_id" : "Egypt",
+                "maxBMI" : NumberDecimal("32.03372250044893943260202742863112"),
+                "minBMI" : NumberDecimal("17.65042987323807118058203699771006"),
+                "avgBMI" : NumberDecimal("24.27917224908558253435654446034465")
+        },
+        {
+                "_id" : "United Kingdom",
+                "maxBMI" : NumberDecimal("31.90315898243852895791199325004592"),
+                "minBMI" : NumberDecimal("19.42792867188164697285908042180283"),
+                "avgBMI" : NumberDecimal("23.78573603898099616254349912745215")
+        },
+        {
+                "_id" : "Central African Republic",
+                "maxBMI" : NumberDecimal("28.95456123722056700191617360511296"),
+                "minBMI" : NumberDecimal("19.61489940198227909344327165433517"),
+                "avgBMI" : NumberDecimal("23.91678733026696676572733494703927")
+        },
+        {
+                "_id" : "Chile",
+                "maxBMI" : NumberDecimal("29.79885840825515406608997521277154"),
+                "minBMI" : NumberDecimal("16.95129162701079917991752334157636"),
+                "avgBMI" : NumberDecimal("24.86968056067228753804587081256115")
+        },
+        {
+                "_id" : "Vanuatu",
+                "maxBMI" : NumberDecimal("27.20784148023658644788509752686584"),
+                "minBMI" : NumberDecimal("23.04931152277455291097177880762756"),
+                "avgBMI" : NumberDecimal("24.69754891291689330264689054898967")
+        },
+        {
+                "_id" : "Reunion",
+                "maxBMI" : NumberDecimal("39.16506059010435933058688718564779"),
+                "minBMI" : NumberDecimal("18.72890348175829242237886949519302"),
+                "avgBMI" : NumberDecimal("26.42177569784528839845043477029428")
+        },
+        {
+                "_id" : "Tuvalu",
+                "maxBMI" : NumberDecimal("22.60418435695906701271270132326482"),
+                "minBMI" : NumberDecimal("22.60418435695906701271270132326482"),
+                "avgBMI" : NumberDecimal("22.60418435695906701271270132326482")
+        },
+        {
+                "_id" : "United States",
+                "maxBMI" : NumberDecimal("36.69514941999168805657582410498887"),
+                "minBMI" : NumberDecimal("18.80366267168511430102416220331288"),
+                "avgBMI" : NumberDecimal("25.74653431942232193386740187042824")
+        },
+        {
+                "_id" : "Uzbekistan",
+                "maxBMI" : NumberDecimal("32.30460851219657105782683058130449"),
+                "minBMI" : NumberDecimal("19.78219777101564641197171377905717"),
+                "avgBMI" : NumberDecimal("25.89508672058650574392944687909055")
+        },
+        {
+                "_id" : "Madagascar",
+                "maxBMI" : NumberDecimal("30.18958373732737951152564351440885"),
+                "minBMI" : NumberDecimal("17.55666647969798341018148197374270"),
+                "avgBMI" : NumberDecimal("24.78315354739493281385804142415308")
+        },
+        {
+                "_id" : "Haiti",
+                "maxBMI" : NumberDecimal("34.70650592993630262801535768156606"),
+                "minBMI" : NumberDecimal("21.95395109695805176754791524388625"),
+                "avgBMI" : NumberDecimal("26.05350083840597562870408335169351")
+        },
+        {
+                "_id" : "Guinea-Bissau",
+                "maxBMI" : NumberDecimal("26.54403588086241608849176541473609"),
+                "minBMI" : NumberDecimal("23.28512818429206728792588228579278"),
+                "avgBMI" : NumberDecimal("24.42720412339051248088773037406445")
+        },
+        {
+                "_id" : "Honduras",
+                "maxBMI" : NumberDecimal("35.22066445474853905515980986277181"),
+                "minBMI" : NumberDecimal("18.48329547652651651290073670643668"),
+                "avgBMI" : NumberDecimal("25.48034274333803263842355313504831")
+        },
+        {
+                "_id" : "Libya",
+                "maxBMI" : NumberDecimal("35.14959498858503892483269082172581"),
+                "minBMI" : NumberDecimal("21.42742372829578954682308229938672"),
+                "avgBMI" : NumberDecimal("27.27409420047267312286188378081914")
+        },
+        {
+                "_id" : "Sri Lanka",
+                "maxBMI" : NumberDecimal("28.60361966419166993004126482306520"),
+                "minBMI" : NumberDecimal("20.74442158168758040167931294273282"),
+                "avgBMI" : NumberDecimal("24.57652396572147279641119614899786")
+        },
+        {
+                "_id" : "Malta",
+                "maxBMI" : NumberDecimal("36.01978908588236915307757204989577"),
+                "minBMI" : NumberDecimal("22.12038424930670333422396985705541"),
+                "avgBMI" : NumberDecimal("26.16958044897124415488502194189836")
+        },
+        {
+                "_id" : "Brunei",
+                "maxBMI" : NumberDecimal("25.02697259105827010904775778280645"),
+                "minBMI" : NumberDecimal("25.02697259105827010904775778280645"),
+                "avgBMI" : NumberDecimal("25.02697259105827010904775778280645")
+        },
+        {
+                "_id" : "Poland",
+                "maxBMI" : NumberDecimal("36.71954280831063397959728675960049"),
+                "minBMI" : NumberDecimal("18.00631725901083402606019588730123"),
+                "avgBMI" : NumberDecimal("25.28244354530618237011164460408577")
+        },
+        {
+                "_id" : "Panama",
+                "maxBMI" : NumberDecimal("33.20491691331714700464926615869704"),
+                "minBMI" : NumberDecimal("20.49703487998977670450612486937134"),
+                "avgBMI" : NumberDecimal("24.99226462988103400467276343570973")
+        },
+        {
+                "_id" : "Indonesia",
+                "maxBMI" : NumberDecimal("45.22548881143320802967379339420861"),
+                "minBMI" : NumberDecimal("14.75291602554557623502839201876389"),
+                "avgBMI" : NumberDecimal("25.49676266698907876716421865002760")
+        },
+        {
+                "_id" : "Russia",
+                "maxBMI" : NumberDecimal("39.88445766499927242352491111853568"),
+                "minBMI" : NumberDecimal("17.63122175168548700552094928581748"),
+                "avgBMI" : NumberDecimal("25.39912530693073175729830169216406")
+        },
+        {
+                "_id" : "Botswana",
+                "maxBMI" : NumberDecimal("27.18178743838766037773160110183298"),
+                "minBMI" : NumberDecimal("21.66103584914847327912757432760372"),
+                "avgBMI" : NumberDecimal("24.65301745653143974405611325565888")
+        },
+        {
+                "_id" : "Venezuela",
+                "maxBMI" : NumberDecimal("31.13585549028944664259403256171820"),
+                "minBMI" : NumberDecimal("19.13646679856839845016745185610562"),
+                "avgBMI" : NumberDecimal("24.91362454602857205447584161477832")
+        },
+        {
+                "_id" : "Oman",
+                "maxBMI" : NumberDecimal("27.08402216179085387307023512051003"),
+                "minBMI" : NumberDecimal("23.59950905408422648652705931288546"),
+                "avgBMI" : NumberDecimal("25.68822113583300806966845374586935")
+        },
+        {
+                "_id" : "Burundi",
+                "maxBMI" : NumberDecimal("28.50245013159454485213215151487850"),
+                "minBMI" : NumberDecimal("23.41760581267603900640595332238645"),
+                "avgBMI" : NumberDecimal("25.64831294896216117753541271506790")
+        },
+        {
+                "_id" : "Pakistan",
+                "maxBMI" : NumberDecimal("35.54144749573526536854425067998120"),
+                "minBMI" : NumberDecimal("17.50730233681112533153975646868121"),
+                "avgBMI" : NumberDecimal("25.02816349688191991058935127601773")
+        },
+        {
+                "_id" : "El Salvador",
+                "maxBMI" : NumberDecimal("33.56299576484531697963758481014948"),
+                "minBMI" : NumberDecimal("21.92582816065902039471061032522511"),
+                "avgBMI" : NumberDecimal("25.34836100144279741459793335352171")
+        },
+        {
+                "_id" : "Saudi Arabia",
+                "maxBMI" : NumberDecimal("32.09538869628018156664990513906768"),
+                "minBMI" : NumberDecimal("19.97199129486528154434334018332060"),
+                "avgBMI" : NumberDecimal("25.67648497567066021047147275941578")
+        },
+        {
+                "_id" : "Uruguay",
+                "maxBMI" : NumberDecimal("34.36142632230809694841872985447883"),
+                "minBMI" : NumberDecimal("20.36880096087932532859246929734178"),
+                "avgBMI" : NumberDecimal("25.32476196226835257976675969191569")
+        },
+        {
+                "_id" : "Ecuador",
+                "maxBMI" : NumberDecimal("31.54075759540045589248125828680505"),
+                "minBMI" : NumberDecimal("19.83778943575938682834893771317037"),
+                "avgBMI" : NumberDecimal("25.66255028757021097371373896677552")
+        },
+        {
+                "_id" : "Hungary",
+                "maxBMI" : NumberDecimal("32.69237888437416625498013053973702"),
+                "minBMI" : NumberDecimal("22.35711718432028629388032018500009"),
+                "avgBMI" : NumberDecimal("26.31407363405380900959962301695082")
+        },
+        {
+                "_id" : "Belize",
+                "maxBMI" : NumberDecimal("26.22341661344843127905927734546925"),
+                "minBMI" : NumberDecimal("18.42404722412854372126657495523783"),
+                "avgBMI" : NumberDecimal("23.22003931990746479754249585945490")
+        },
+        {
+                "_id" : "Nicaragua",
+                "maxBMI" : NumberDecimal("30.03721107933859487327379124644616"),
+                "minBMI" : NumberDecimal("19.77548826420130446358677879616484"),
+                "avgBMI" : NumberDecimal("24.17094824384102662178811291825473")
+        },
+        {
+                "_id" : "Slovakia",
+                "maxBMI" : NumberDecimal("21.33881881098346392216249681635843"),
+                "minBMI" : NumberDecimal("21.33881881098346392216249681635843"),
+                "avgBMI" : NumberDecimal("21.33881881098346392216249681635843")
+        },
+        {
+                "_id" : "Slovenia",
+                "maxBMI" : NumberDecimal("32.66109875399449102111811761873598"),
+                "minBMI" : NumberDecimal("17.37038577969415655256045260848462"),
+                "avgBMI" : NumberDecimal("25.20987966125675262176888305350275")
+        },
+        {
+                "_id" : "Turkey",
+                "maxBMI" : NumberDecimal("23.21881823082742874970424621496472"),
+                "minBMI" : NumberDecimal("22.71234002430646238976247221874393"),
+                "avgBMI" : NumberDecimal("22.99159106196312673710443065161398")
+        },
+        {
+                "_id" : "Macao",
+                "maxBMI" : NumberDecimal("23.98847768982694126364406158415010"),
+                "minBMI" : NumberDecimal("23.98847768982694126364406158415010"),
+                "avgBMI" : NumberDecimal("23.98847768982694126364406158415010")
+        },
+        {
+                "_id" : "Mexico",
+                "maxBMI" : NumberDecimal("36.27087514967180175557112944486863"),
+                "minBMI" : NumberDecimal("18.91785799534758032487710190285540"),
+                "avgBMI" : NumberDecimal("25.47429001960034780137983913499841")
+        },
+        {
+                "_id" : "Philippines",
+                "maxBMI" : NumberDecimal("40.14921877820495931244090104218637"),
+                "minBMI" : NumberDecimal("17.74777571423771980871440178833410"),
+                "avgBMI" : NumberDecimal("25.20640754830297536007932642293844")
+        },
+        {
+                "_id" : "Estonia",
+                "maxBMI" : NumberDecimal("28.68360155605992559830179809343618"),
+                "minBMI" : NumberDecimal("18.56087862078944315236044547896406"),
+                "avgBMI" : NumberDecimal("25.54213616931856867794943576101439")
+        },
+        {
+                "_id" : "Tanzania",
+                "maxBMI" : NumberDecimal("34.99929572975639486415007204454218"),
+                "minBMI" : NumberDecimal("20.05029459378471546959100454886831"),
+                "avgBMI" : NumberDecimal("26.25230014888817857824525929447729")
+        },
+        {
+                "_id" : "Guatemala",
+                "maxBMI" : NumberDecimal("32.13075314700058661671247301988067"),
+                "minBMI" : NumberDecimal("19.61960899208894563764551329620966"),
+                "avgBMI" : NumberDecimal("25.74289959354354830120507660008001")
+        },
+        {
+                "_id" : "Bahamas",
+                "maxBMI" : NumberDecimal("26.59649455139833277577420090253549"),
+                "minBMI" : NumberDecimal("22.24366536017228926154479525846782"),
+                "avgBMI" : NumberDecimal("24.99481632241477702940458004386882")
+        },
+        {
+                "_id" : "Hong Kong",
+                "maxBMI" : NumberDecimal("27.28283221221082687489074063283025"),
+                "minBMI" : NumberDecimal("27.28283221221082687489074063283025"),
+                "avgBMI" : NumberDecimal("27.28283221221082687489074063283025")
+        },
+        {
+                "_id" : "Algeria",
+                "maxBMI" : NumberDecimal("28.59446385380274119860252620263370"),
+                "minBMI" : NumberDecimal("28.59446385380274119860252620263370"),
+                "avgBMI" : NumberDecimal("28.59446385380274119860252620263370")
+        },
+        {
+                "_id" : "Nigeria",
+                "maxBMI" : NumberDecimal("36.16277887197436098842457664076870"),
+                "minBMI" : NumberDecimal("16.86033577265922591138574469477608"),
+                "avgBMI" : NumberDecimal("24.80238820301121614478421252746198")
+        },
+        {
+                "_id" : "Ivory Coast",
+                "maxBMI" : NumberDecimal("35.26565858224913444395070400867642"),
+                "minBMI" : NumberDecimal("20.49720267946943851433771504069086"),
+                "avgBMI" : NumberDecimal("26.73916221830436963771461408285133")
+        },
+        {
+                "_id" : "Northern Mariana Islands",
+                "maxBMI" : NumberDecimal("25.91232061098384752852009980122857"),
+                "minBMI" : NumberDecimal("25.91232061098384752852009980122857"),
+                "avgBMI" : NumberDecimal("25.91232061098384752852009980122857")
+        },
+        {
+                "_id" : "Aland Islands",
+                "maxBMI" : NumberDecimal("33.92911214898955707791654733042101"),
+                "minBMI" : NumberDecimal("22.42250899543060817287104546761677"),
+                "avgBMI" : NumberDecimal("28.16261648965891011858051276745502")
+        },
+        {
+                "_id" : "Chad",
+                "maxBMI" : NumberDecimal("32.14867661954463381336151847447924"),
+                "minBMI" : NumberDecimal("19.37971212286979910135668825662201"),
+                "avgBMI" : NumberDecimal("25.90576302097000876296776073608446")
+        },
+        {
+                "_id" : "Kyrgyzstan",
+                "maxBMI" : NumberDecimal("34.05576978971840538079545039719389"),
+                "minBMI" : NumberDecimal("16.84647493053086259109159855092414"),
+                "avgBMI" : NumberDecimal("23.79456317353873042094295525535078")
+        },
+        {
+                "_id" : "Switzerland",
+                "maxBMI" : NumberDecimal("31.15353552183307558153262716153294"),
+                "minBMI" : NumberDecimal("20.19210270438742514292515854360274"),
+                "avgBMI" : NumberDecimal("25.70946937867774993504130917392068")
+        },
+        {
+                "_id" : "Taiwan",
+                "maxBMI" : NumberDecimal("31.17139169587829737364280722366268"),
+                "minBMI" : NumberDecimal("20.35992976483322443347356998905609"),
+                "avgBMI" : NumberDecimal("26.61015347417484560787283146367524")
+        },
+        {
+                "_id" : "Gabon",
+                "maxBMI" : NumberDecimal("29.04827089492947520414638043580282"),
+                "minBMI" : NumberDecimal("22.26680256160159881321491783841204"),
+                "avgBMI" : NumberDecimal("25.65753672826553700868064913710743")
+        },
+        {
+                "_id" : "Belarus",
+                "maxBMI" : NumberDecimal("33.93864732017480864756377640442896"),
+                "minBMI" : NumberDecimal("17.86291107456045312551847195379463"),
+                "avgBMI" : NumberDecimal("25.46967907568700355103026602117837")
+        },
+        {
+                "_id" : "Dominican Republic",
+                "maxBMI" : NumberDecimal("30.32549350733766470851345107186375"),
+                "minBMI" : NumberDecimal("18.01287119956940876136315148685930"),
+                "avgBMI" : NumberDecimal("24.15506178055435118584246878585197")
+        },
+        {
+                "_id" : "Argentina",
+                "maxBMI" : NumberDecimal("34.13224063185603857691898613592427"),
+                "minBMI" : NumberDecimal("17.58733455568425332389179193262684"),
+                "avgBMI" : NumberDecimal("25.67681404242850758037237096510964")
+        },
+        {
+                "_id" : "Benin",
+                "maxBMI" : NumberDecimal("30.29648188897398869388608163150919"),
+                "minBMI" : NumberDecimal("21.32670713261911424831195959680063"),
+                "avgBMI" : NumberDecimal("25.77836456996179476601328740657914")
+        },
+        {
+                "_id" : "Cape Verde",
+                "maxBMI" : NumberDecimal("35.04527266278727263542508963893049"),
+                "minBMI" : NumberDecimal("19.20724222151504922016731799850695"),
+                "avgBMI" : NumberDecimal("25.33466174988547239955471110570445")
+        },
+        {
+                "_id" : "Thailand",
+                "maxBMI" : NumberDecimal("35.59056018272643162782479173703706"),
+                "minBMI" : NumberDecimal("18.18171734247440247729158461653620"),
+                "avgBMI" : NumberDecimal("25.68971420081766639772388707971595")
+        },
+        {
+                "_id" : "Austria",
+                "maxBMI" : NumberDecimal("37.25997584611416488672396039856417"),
+                "minBMI" : NumberDecimal("23.01532709975852025312846727325306"),
+                "avgBMI" : NumberDecimal("27.93883177972951548141551139780114")
+        },
+        {
+                "_id" : "Tonga",
+                "maxBMI" : NumberDecimal("23.82930867760950124024088774906844"),
+                "minBMI" : NumberDecimal("23.82930867760950124024088774906844"),
+                "avgBMI" : NumberDecimal("23.82930867760950124024088774906844")
+        },
+        {
+                "_id" : "Armenia",
+                "maxBMI" : NumberDecimal("31.66851100446301713976188685790415"),
+                "minBMI" : NumberDecimal("19.17386933002284555755425091831133"),
+                "avgBMI" : NumberDecimal("24.9417893225430400790711877404062")
+        },
+        {
+                "_id" : "Morocco",
+                "maxBMI" : NumberDecimal("32.90604019213788095716864742369126"),
+                "minBMI" : NumberDecimal("20.18230432232479660582543493404488"),
+                "avgBMI" : NumberDecimal("25.87499924181594870434621037532375")
+        },
+        {
+                "_id" : "Italy",
+                "maxBMI" : NumberDecimal("31.28284127929142020753030906054645"),
+                "minBMI" : NumberDecimal("18.62665699542921982901106207899918"),
+                "avgBMI" : NumberDecimal("25.22444856275980471646895227523683")
+        },
+        {
+                "_id" : "Myanmar",
+                "maxBMI" : NumberDecimal("31.44845939513945489962539777113579"),
+                "minBMI" : NumberDecimal("20.99743660839638859542994557992289"),
+                "avgBMI" : NumberDecimal("25.96438619100989490062551980533014")
+        },
+        {
+                "_id" : "Mozambique",
+                "maxBMI" : NumberDecimal("29.44789535394623714227709935351343"),
+                "minBMI" : NumberDecimal("22.80035968565026433120359783604839"),
+                "avgBMI" : NumberDecimal("25.56294360884168109092395371805367")
+        },
+        {
+                "_id" : "Denmark",
+                "maxBMI" : NumberDecimal("27.82486059842129913301236805324628"),
+                "minBMI" : NumberDecimal("21.08473436367002770756570688300392"),
+                "avgBMI" : NumberDecimal("23.57066679447301298727180726849258")
+        },
+        {
+                "_id" : "Bhutan",
+                "maxBMI" : NumberDecimal("31.35770002294631167537081448534303"),
+                "minBMI" : NumberDecimal("19.41885638320743049545756945372787"),
+                "avgBMI" : NumberDecimal("24.05660489458200500789648627037162")
+        },
+        {
+                "_id" : "Georgia",
+                "maxBMI" : NumberDecimal("27.69630704828080100347370067084136"),
+                "minBMI" : NumberDecimal("19.90778936769029079410714167269207"),
+                "avgBMI" : NumberDecimal("24.32029582441771407557705381306291")
+        },
+        {
+                "_id" : "Kiribati",
+                "maxBMI" : NumberDecimal("23.10468333614625020458586861173217"),
+                "minBMI" : NumberDecimal("23.10468333614625020458586861173217"),
+                "avgBMI" : NumberDecimal("23.10468333614625020458586861173217")
+        },
+        {
+                "_id" : "Rwanda",
+                "maxBMI" : NumberDecimal("27.60395919371097814776274713839750"),
+                "minBMI" : NumberDecimal("22.83495766227415798287970649906621"),
+                "avgBMI" : NumberDecimal("25.96047518885389247519744233851147")
+        },
+        {
+                "_id" : "Marshall Islands",
+                "maxBMI" : NumberDecimal("26.89988056197373763142772725921088"),
+                "minBMI" : NumberDecimal("22.40351504578182251647956222350709"),
+                "avgBMI" : NumberDecimal("24.43622243881069564478838124729675")
+        },
+        {
+                "_id" : "Tajikistan",
+                "maxBMI" : NumberDecimal("31.13265060582112365972853213652535"),
+                "minBMI" : NumberDecimal("19.99027882831350017594215384457910"),
+                "avgBMI" : NumberDecimal("24.96184332022354300230851633845855")
+        },
+        {
+                "_id" : "Togo",
+                "maxBMI" : NumberDecimal("24.55999969363162266309009953568170"),
+                "minBMI" : NumberDecimal("21.48308917637090906039006780327799"),
+                "avgBMI" : NumberDecimal("23.2685398115691583126881069654909")
+        },
+        {
+                "_id" : "Japan",
+                "maxBMI" : NumberDecimal("37.20827154261415587430295478907305"),
+                "minBMI" : NumberDecimal("18.90452276508068746714093565907440"),
+                "avgBMI" : NumberDecimal("25.28897911812306176606762795102452")
+        },
+        {
+                "_id" : "Spain",
+                "maxBMI" : NumberDecimal("34.93566020634309942603893118904629"),
+                "minBMI" : NumberDecimal("21.71883995935712800874110050997368"),
+                "avgBMI" : NumberDecimal("26.17217439296113380045949407562245")
+        },
+        {
+                "_id" : "Azerbaijan",
+                "maxBMI" : NumberDecimal("36.93348217200574945180398309641118"),
+                "minBMI" : NumberDecimal("18.77056981567992095378557261281158"),
+                "avgBMI" : NumberDecimal("25.95352117807468760757274472224666")
+        },
+        {
+                "_id" : "Palestinian Territory",
+                "maxBMI" : NumberDecimal("35.54150728191122042814689519789573"),
+                "minBMI" : NumberDecimal("19.17952511054917657007796933612798"),
+                "avgBMI" : NumberDecimal("25.51977107836518208386398327350395")
+        },
+        {
+                "_id" : "Zimbabwe",
+                "maxBMI" : NumberDecimal("35.12027773402992120248577828683882"),
+                "minBMI" : NumberDecimal("22.60982537583281896455200823658283"),
+                "avgBMI" : NumberDecimal("26.97591880240733217601314500378076")
+        },
+        {
+                "_id" : "Greece",
+                "maxBMI" : NumberDecimal("41.52589808442401122203171090280532"),
+                "minBMI" : NumberDecimal("19.12676281226606814879394410184396"),
+                "avgBMI" : NumberDecimal("25.75772828444273468017495508781766")
+        },
+        {
+                "_id" : "Nepal",
+                "maxBMI" : NumberDecimal("31.07848971764861469285194736494083"),
+                "minBMI" : NumberDecimal("19.74897324473346599745813347538906"),
+                "avgBMI" : NumberDecimal("26.43434938647296026749255990681712")
+        },
+        {
+                "_id" : "Ireland",
+                "maxBMI" : NumberDecimal("33.51950090390847838973927993959523"),
+                "minBMI" : NumberDecimal("17.75318004974459239029459080047395"),
+                "avgBMI" : NumberDecimal("25.94602693286138685309305758844635")
+        },
+        {
+                "_id" : "Cyprus",
+                "maxBMI" : NumberDecimal("29.82548972839575399852769720378806"),
+                "minBMI" : NumberDecimal("22.19514173678793476920219020211149"),
+                "avgBMI" : NumberDecimal("25.19379219201182028338964009418396")
+        },
+        {
+                "_id" : "Iran",
+                "maxBMI" : NumberDecimal("37.98020856315508299809889744170953"),
+                "minBMI" : NumberDecimal("18.23799621737776079986129905520772"),
+                "avgBMI" : NumberDecimal("25.85274446746476681948165367114876")
+        },
+        {
+                "_id" : "Bangladesh",
+                "maxBMI" : NumberDecimal("34.06297114172177007495464671075138"),
+                "minBMI" : NumberDecimal("19.80982119147577360682718839635199"),
+                "avgBMI" : NumberDecimal("26.69345628894041295675510598352965")
+        },
+        {
+                "_id" : "Uganda",
+                "maxBMI" : NumberDecimal("33.24570873490974200021993825388021"),
+                "minBMI" : NumberDecimal("20.58589719317205162037005507960342"),
+                "avgBMI" : NumberDecimal("25.79992632681937599016751159088252")
+        },
+        {
+                "_id" : "Tunisia",
+                "maxBMI" : NumberDecimal("30.37866143334600256523521408143602"),
+                "minBMI" : NumberDecimal("18.60519012755488369381485621646746"),
+                "avgBMI" : NumberDecimal("24.19010019385632835630838379485694")
+        },
+        {
+                "_id" : "Portugal",
+                "maxBMI" : NumberDecimal("39.66789019620168838286623375826462"),
+                "minBMI" : NumberDecimal("17.25327791895594128501539459174260"),
+                "avgBMI" : NumberDecimal("25.47361404453795540771523799189860")
+        },
+        {
+                "_id" : "Guyana",
+                "maxBMI" : NumberDecimal("28.21437073786826383870746913691177"),
+                "minBMI" : NumberDecimal("24.09688921189087500812569519935855"),
+                "avgBMI" : NumberDecimal("26.15562997487956942341658216813516")
+        },
+        {
+                "_id" : "Lesotho",
+                "maxBMI" : NumberDecimal("30.16446032889049332065775082218099"),
+                "minBMI" : NumberDecimal("19.80465395882541268534795424134271"),
+                "avgBMI" : NumberDecimal("25.35989698056185911484164150046968")
+        },
+        {
+                "_id" : "Niger",
+                "maxBMI" : NumberDecimal("30.22683231486928245371232227856812"),
+                "minBMI" : NumberDecimal("20.07204296186381641374550147628350"),
+                "avgBMI" : NumberDecimal("26.38467957085214539994757297630845")
+        },
+        {
+                "_id" : "Kazakhstan",
+                "maxBMI" : NumberDecimal("36.89674012515098179812373829609736"),
+                "minBMI" : NumberDecimal("16.80707993583250144662684134552823"),
+                "avgBMI" : NumberDecimal("25.87229683553716531263034365419668")
+        },
+        {
+                "_id" : "Swaziland",
+                "maxBMI" : NumberDecimal("20.90262556388961504688746338487938"),
+                "minBMI" : NumberDecimal("20.90262556388961504688746338487938"),
+                "avgBMI" : NumberDecimal("20.90262556388961504688746338487938")
+        },
+        {
+                "_id" : "Mali",
+                "maxBMI" : NumberDecimal("31.67016743066081384516987982459780"),
+                "minBMI" : NumberDecimal("19.24668555616468200639148622775620"),
+                "avgBMI" : NumberDecimal("24.91941030275992393301391113244697")
+        },
+        {
+                "_id" : "Paraguay",
+                "maxBMI" : NumberDecimal("32.97774797284500513070864885424711"),
+                "minBMI" : NumberDecimal("21.19418884773865471446188713553198"),
+                "avgBMI" : NumberDecimal("25.11890801734547228898376993332221")
+        },
+        {
+                "_id" : "Sweden",
+                "maxBMI" : NumberDecimal("40.08859056169311333327717668290540"),
+                "minBMI" : NumberDecimal("18.10118686020886908448815784607180"),
+                "avgBMI" : NumberDecimal("25.75926441250587336865385310654756")
+        },
+        {
+                "_id" : "Israel",
+                "maxBMI" : NumberDecimal("30.14483568029636059272118544237088"),
+                "minBMI" : NumberDecimal("21.29159791634994895823826129920786"),
+                "avgBMI" : NumberDecimal("25.45168966558967354711611570122183")
+        }
+]

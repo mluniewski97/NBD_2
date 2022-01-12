@@ -1,0 +1,618 @@
+[
+        {
+                "_id" : "NZD",
+                "currencysum" : NumberDecimal("338447.54")
+        },
+        {
+                "_id" : "HKD",
+                "currencysum" : NumberDecimal("23023.02")
+        },
+        {
+                "_id" : "BWP",
+                "currencysum" : NumberDecimal("146972.04")
+        },
+        {
+                "_id" : "LAK",
+                "currencysum" : NumberDecimal("86305.05")
+        },
+        {
+                "_id" : "ETB",
+                "currencysum" : NumberDecimal("269686.62")
+        },
+        {
+                "_id" : "AMD",
+                "currencysum" : NumberDecimal("602964.09")
+        },
+        {
+                "_id" : "NPR",
+                "currencysum" : NumberDecimal("146606.65")
+        },
+        {
+                "_id" : "VND",
+                "currencysum" : NumberDecimal("1395639.11")
+        },
+        {
+                "_id" : "CDF",
+                "currencysum" : NumberDecimal("178097.37")
+        },
+        {
+                "_id" : "BIF",
+                "currencysum" : NumberDecimal("45782.33")
+        },
+        {
+                "_id" : "UZS",
+                "currencysum" : NumberDecimal("330309.61")
+        },
+        {
+                "_id" : "KGS",
+                "currencysum" : NumberDecimal("176827.79")
+        },
+        {
+                "_id" : "PLN",
+                "currencysum" : NumberDecimal("5065838.36")
+        },
+        {
+                "_id" : "SCR",
+                "currencysum" : NumberDecimal("14797.58")
+        },
+        {
+                "_id" : "KES",
+                "currencysum" : NumberDecimal("269798.11")
+        },
+        {
+                "_id" : "STD",
+                "currencysum" : NumberDecimal("4854.36")
+        },
+        {
+                "_id" : "IRR",
+                "currencysum" : NumberDecimal("804397.05")
+        },
+        {
+                "_id" : "PEN",
+                "currencysum" : NumberDecimal("2356548.02")
+        },
+        {
+                "_id" : "WST",
+                "currencysum" : NumberDecimal("30739.64")
+        },
+        {
+                "_id" : "BOB",
+                "currencysum" : NumberDecimal("257433.54")
+        },
+        {
+                "_id" : "NGN",
+                "currencysum" : NumberDecimal("1282147.14")
+        },
+        {
+                "_id" : "XPF",
+                "currencysum" : NumberDecimal("132926.01")
+        },
+        {
+                "_id" : "MGA",
+                "currencysum" : NumberDecimal("377675.55")
+        },
+        {
+                "_id" : "KZT",
+                "currencysum" : NumberDecimal("584923.20")
+        },
+        {
+                "_id" : "TND",
+                "currencysum" : NumberDecimal("325755.90")
+        },
+        {
+                "_id" : "BRL",
+                "currencysum" : NumberDecimal("5609900.00")
+        },
+        {
+                "_id" : "CZK",
+                "currencysum" : NumberDecimal("2644211.16")
+        },
+        {
+                "_id" : "COP",
+                "currencysum" : NumberDecimal("1976194.79")
+        },
+        {
+                "_id" : "AUD",
+                "currencysum" : NumberDecimal("242667.03")
+        },
+        {
+                "_id" : "CUP",
+                "currencysum" : NumberDecimal("514413.88")
+        },
+        {
+                "_id" : "YER",
+                "currencysum" : NumberDecimal("583657.38")
+        },
+        {
+                "_id" : "XOF",
+                "currencysum" : NumberDecimal("934043.61")
+        },
+        {
+                "_id" : "RSD",
+                "currencysum" : NumberDecimal("817403.54")
+        },
+        {
+                "_id" : "QAR",
+                "currencysum" : NumberDecimal("36358.92")
+        },
+        {
+                "_id" : "KRW",
+                "currencysum" : NumberDecimal("433497.06")
+        },
+        {
+                "_id" : "SLL",
+                "currencysum" : NumberDecimal("116224.90")
+        },
+        {
+                "_id" : "SZL",
+                "currencysum" : NumberDecimal("59113.09")
+        },
+        {
+                "_id" : "ZMW",
+                "currencysum" : NumberDecimal("160940.53")
+        },
+        {
+                "_id" : "TRY",
+                "currencysum" : NumberDecimal("18414.53")
+        },
+        {
+                "_id" : "ARS",
+                "currencysum" : NumberDecimal("1940347.24")
+        },
+        {
+                "_id" : "UYU",
+                "currencysum" : NumberDecimal("231996.14")
+        },
+        {
+                "_id" : "HUF",
+                "currencysum" : NumberDecimal("165192.16")
+        },
+        {
+                "_id" : "HNL",
+                "currencysum" : NumberDecimal("817695.24")
+        },
+        {
+                "_id" : "GHS",
+                "currencysum" : NumberDecimal("83159.05")
+        },
+        {
+                "_id" : "UAH",
+                "currencysum" : NumberDecimal("2505840.72")
+        },
+        {
+                "_id" : "BAM",
+                "currencysum" : NumberDecimal("415965.47")
+        },
+        {
+                "_id" : "ZWL",
+                "currencysum" : NumberDecimal("142978.86")
+        },
+        {
+                "_id" : "MKD",
+                "currencysum" : NumberDecimal("436912.01")
+        },
+        {
+                "_id" : "SRD",
+                "currencysum" : NumberDecimal("19686.77")
+        },
+        {
+                "_id" : "EUR",
+                "currencysum" : NumberDecimal("16700089.28")
+        },
+        {
+                "_id" : "AWG",
+                "currencysum" : NumberDecimal("7282.73")
+        },
+        {
+                "_id" : "BGN",
+                "currencysum" : NumberDecimal("496641.83")
+        },
+        {
+                "_id" : "MZN",
+                "currencysum" : NumberDecimal("92068.64")
+        },
+        {
+                "_id" : "MAD",
+                "currencysum" : NumberDecimal("510936.11")
+        },
+        {
+                "_id" : "DKK",
+                "currencysum" : NumberDecimal("222452.28")
+        },
+        {
+                "_id" : "MRO",
+                "currencysum" : NumberDecimal("44471.32")
+        },
+        {
+                "_id" : "SDG",
+                "currencysum" : NumberDecimal("127317.75")
+        },
+        {
+                "_id" : "BZD",
+                "currencysum" : NumberDecimal("24296.69")
+        },
+        {
+                "_id" : "VUV",
+                "currencysum" : NumberDecimal("23188.93")
+        },
+        {
+                "_id" : "GBP",
+                "currencysum" : NumberDecimal("243512.86")
+        },
+        {
+                "_id" : "SGD",
+                "currencysum" : NumberDecimal("12820.48")
+        },
+        {
+                "_id" : "VEF",
+                "currencysum" : NumberDecimal("629053.41")
+        },
+        {
+                "_id" : "CVE",
+                "currencysum" : NumberDecimal("46538.51")
+        },
+        {
+                "_id" : "MDL",
+                "currencysum" : NumberDecimal("173318.73")
+        },
+        {
+                "_id" : "BBD",
+                "currencysum" : NumberDecimal("26720.50")
+        },
+        {
+                "_id" : "SEK",
+                "currencysum" : NumberDecimal("3706221.01")
+        },
+        {
+                "_id" : "USD",
+                "currencysum" : NumberDecimal("4086760.81")
+        },
+        {
+                "_id" : "LTL",
+                "currencysum" : NumberDecimal("220627.42")
+        },
+        {
+                "_id" : "IQD",
+                "currencysum" : NumberDecimal("167531.82")
+        },
+        {
+                "_id" : "TOP",
+                "currencysum" : NumberDecimal("18424.47")
+        },
+        {
+                "_id" : "RON",
+                "currencysum" : NumberDecimal("11557.60")
+        },
+        {
+                "_id" : "CNY",
+                "currencysum" : NumberDecimal("27425502.27")
+        },
+        {
+                "_id" : "FJD",
+                "currencysum" : NumberDecimal("9321.43")
+        },
+        {
+                "_id" : "ERN",
+                "currencysum" : NumberDecimal("21598.47")
+        },
+        {
+                "_id" : "LRD",
+                "currencysum" : NumberDecimal("54883.45")
+        },
+        {
+                "_id" : "GTQ",
+                "currencysum" : NumberDecimal("588368.85")
+        },
+        {
+                "_id" : "MNT",
+                "currencysum" : NumberDecimal("639977.48")
+        },
+        {
+                "_id" : "ALL",
+                "currencysum" : NumberDecimal("651597.87")
+        },
+        {
+                "_id" : "MMK",
+                "currencysum" : NumberDecimal("223284.76")
+        },
+        {
+                "_id" : "XAF",
+                "currencysum" : NumberDecimal("736336.77")
+        },
+        {
+                "_id" : "RWF",
+                "currencysum" : NumberDecimal("43299.96")
+        },
+        {
+                "_id" : "KPW",
+                "currencysum" : NumberDecimal("222518.63")
+        },
+        {
+                "_id" : "XCD",
+                "currencysum" : NumberDecimal("168150.01")
+        },
+        {
+                "_id" : "LSL",
+                "currencysum" : NumberDecimal("26269.07")
+        },
+        {
+                "_id" : "DZD",
+                "currencysum" : NumberDecimal("12166.20")
+        },
+        {
+                "_id" : "BSD",
+                "currencysum" : NumberDecimal("55361.39")
+        },
+        {
+                "_id" : "OMR",
+                "currencysum" : NumberDecimal("87008.08")
+        },
+        {
+                "_id" : "PHP",
+                "currencysum" : NumberDecimal("8223429.02")
+        },
+        {
+                "_id" : "IDR",
+                "currencysum" : NumberDecimal("15619806.11")
+        },
+        {
+                "_id" : "LYD",
+                "currencysum" : NumberDecimal("197545.65")
+        },
+        {
+                "_id" : "MYR",
+                "currencysum" : NumberDecimal("666533.65")
+        },
+        {
+                "_id" : "NOK",
+                "currencysum" : NumberDecimal("760113.61")
+        },
+        {
+                "_id" : "HTG",
+                "currencysum" : NumberDecimal("215992.13")
+        },
+        {
+                "_id" : "BDT",
+                "currencysum" : NumberDecimal("294843.38")
+        },
+        {
+                "_id" : "NAD",
+                "currencysum" : NumberDecimal("55420.34")
+        },
+        {
+                "_id" : "BND",
+                "currencysum" : NumberDecimal("7782.66")
+        },
+        {
+                "_id" : "HRK",
+                "currencysum" : NumberDecimal("689403.50")
+        },
+        {
+                "_id" : "CHF",
+                "currencysum" : NumberDecimal("108940.64")
+        },
+        {
+                "_id" : "TWD",
+                "currencysum" : NumberDecimal("37654.00")
+        },
+        {
+                "_id" : "TMT",
+                "currencysum" : NumberDecimal("113099.62")
+        },
+        {
+                "_id" : "KMF",
+                "currencysum" : NumberDecimal("138004.70")
+        },
+        {
+                "_id" : "JMD",
+                "currencysum" : NumberDecimal("201447.71")
+        },
+        {
+                "_id" : "PYG",
+                "currencysum" : NumberDecimal("286515.48")
+        },
+        {
+                "_id" : "NIO",
+                "currencysum" : NumberDecimal("240664.87")
+        },
+        {
+                "_id" : "JOD",
+                "currencysum" : NumberDecimal("210496.68")
+        },
+        {
+                "_id" : "CLP",
+                "currencysum" : NumberDecimal("388620.14")
+        },
+        {
+                "_id" : "AZN",
+                "currencysum" : NumberDecimal("394880.17")
+        },
+        {
+                "_id" : "GMD",
+                "currencysum" : NumberDecimal("157963.90")
+        },
+        {
+                "_id" : "BMD",
+                "currencysum" : NumberDecimal("5189.0")
+        },
+        {
+                "_id" : "BTN",
+                "currencysum" : NumberDecimal("37711.08")
+        },
+        {
+                "_id" : "FKP",
+                "currencysum" : NumberDecimal("5118.97")
+        },
+        {
+                "_id" : "PAB",
+                "currencysum" : NumberDecimal("363643.61")
+        },
+        {
+                "_id" : "AFN",
+                "currencysum" : NumberDecimal("661834.75")
+        },
+        {
+                "_id" : "SYP",
+                "currencysum" : NumberDecimal("501467.35")
+        },
+        {
+                "_id" : "EGP",
+                "currencysum" : NumberDecimal("528336.14")
+        },
+        {
+                "_id" : "PKR",
+                "currencysum" : NumberDecimal("687770.55")
+        },
+        {
+                "_id" : "AED",
+                "currencysum" : NumberDecimal("52973.33")
+        },
+        {
+                "_id" : "BHD",
+                "currencysum" : NumberDecimal("22698.46")
+        },
+        {
+                "_id" : "KWD",
+                "currencysum" : NumberDecimal("82506.07")
+        },
+        {
+                "_id" : "SOS",
+                "currencysum" : NumberDecimal("82203.48")
+        },
+        {
+                "_id" : "MVR",
+                "currencysum" : NumberDecimal("32068.85")
+        },
+        {
+                "_id" : "PGK",
+                "currencysum" : NumberDecimal("61445.27")
+        },
+        {
+                "_id" : "UGX",
+                "currencysum" : NumberDecimal("345203.25")
+        },
+        {
+                "_id" : "AOA",
+                "currencysum" : NumberDecimal("67582.80")
+        },
+        {
+                "_id" : "TTD",
+                "currencysum" : NumberDecimal("44044.89")
+        },
+        {
+                "_id" : "CRC",
+                "currencysum" : NumberDecimal("334544.06")
+        },
+        {
+                "_id" : "ANG",
+                "currencysum" : NumberDecimal("21354.39")
+        },
+        {
+                "_id" : "CAD",
+                "currencysum" : NumberDecimal("1973241.60")
+        },
+        {
+                "_id" : "TJS",
+                "currencysum" : NumberDecimal("177401.05")
+        },
+        {
+                "_id" : "TZS",
+                "currencysum" : NumberDecimal("603855.99")
+        },
+        {
+                "_id" : "MXN",
+                "currencysum" : NumberDecimal("1547673.09")
+        },
+        {
+                "_id" : "DOP",
+                "currencysum" : NumberDecimal("534069.77")
+        },
+        {
+                "_id" : "ILS",
+                "currencysum" : NumberDecimal("758807.63")
+        },
+        {
+                "_id" : "SAR",
+                "currencysum" : NumberDecimal("161706.00")
+        },
+        {
+                "_id" : "RUB",
+                "currencysum" : NumberDecimal("8532474.09")
+        },
+        {
+                "_id" : "BYR",
+                "currencysum" : NumberDecimal("686489.84")
+        },
+        {
+                "_id" : "LKR",
+                "currencysum" : NumberDecimal("225111.39")
+        },
+        {
+                "_id" : "KYD",
+                "currencysum" : NumberDecimal("16809.66")
+        },
+        {
+                "_id" : "ISK",
+                "currencysum" : NumberDecimal("39048.74")
+        },
+        {
+                "_id" : "JPY",
+                "currencysum" : NumberDecimal("2584824.90")
+        },
+        {
+                "_id" : "SSP",
+                "currencysum" : NumberDecimal("42256.53")
+        },
+        {
+                "_id" : "DJF",
+                "currencysum" : NumberDecimal("14734.27")
+        },
+        {
+                "_id" : "GEL",
+                "currencysum" : NumberDecimal("157276.96")
+        },
+        {
+                "_id" : "KHR",
+                "currencysum" : NumberDecimal("100447.58")
+        },
+        {
+                "_id" : "LBP",
+                "currencysum" : NumberDecimal("43326.06")
+        },
+        {
+                "_id" : "GYD",
+                "currencysum" : NumberDecimal("13053.50")
+        },
+        {
+                "_id" : "SBD",
+                "currencysum" : NumberDecimal("9983.00")
+        },
+        {
+                "_id" : "MUR",
+                "currencysum" : NumberDecimal("182130.48")
+        },
+        {
+                "_id" : "ZAR",
+                "currencysum" : NumberDecimal("932463.66")
+        },
+        {
+                "_id" : "THB",
+                "currencysum" : NumberDecimal("2084269.88")
+        },
+        {
+                "_id" : "INR",
+                "currencysum" : NumberDecimal("24172.94")
+        },
+        {
+                "_id" : "MOP",
+                "currencysum" : NumberDecimal("5337.77")
+        },
+        {
+                "_id" : "MWK",
+                "currencysum" : NumberDecimal("88106.83")
+        },
+        {
+                "_id" : "GNF",
+                "currencysum" : NumberDecimal("73222.48")
+        }
+]
